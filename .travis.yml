@@ -3,4 +3,4 @@ dist: trusty
 sudo: required
 
 script:
-- /bin/echo Uploading artifact: http://dummy/repo/hello-karyon-rxnetty_1-1_all.deb
+- /bin/echo Uploading artifact\: http\:\/\/dummy\/repo\/hello-karyon-rxnetty_1-1_all.deb
